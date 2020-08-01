@@ -1,7 +1,7 @@
 # Config-Babel-Webpack
 
 
-- Configurando Babel
+# - Configurando Babel
     - [x]  Primeiro crie seu projeto com (yarn init -y)
     - [x]  Instale a dependência (yarn add @babel/cli -D)
     - [x]  Instale a dependência (yarn add @babel/preset-env -D)
@@ -125,3 +125,10 @@
         "build": "webpack --mode=production"
         }
         ```
+
+# - Estruturando e Organizando as pastas do projeto
+    - [ ]  Crie duas pastar: public e src
+    - public
+        index.html
+    - src
+        aqui vem os scripts (main.js) ....
