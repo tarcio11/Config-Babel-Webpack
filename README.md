@@ -69,9 +69,9 @@
                {
                  test: /\.js$/,
                  exclude: /node_modules/,
-        				 use: {
-        					loader: "babel-loader"
-        				}
+        		 use: {
+        		 loader: "babel-loader"
+        		 }
                }
              ],
            },
@@ -99,9 +99,9 @@
            {
              test: /\.js$/,
              exclude: /node_modules/,
-    				 use: {
-    					loader: "babel-loader"
-    				}
+    		 use: {
+    		 loader: "babel-loader"
+    		 }
            }
          ],
        },
@@ -125,6 +125,7 @@
         "build": "webpack --mode=production"
         }
         ```
+<<<<<<< HEAD
 
 # - Estruturando e Organizando as pastas do projeto
     - [ ]  Crie duas pastar: public e src
@@ -132,3 +133,5 @@
         index.html
     - src
         aqui vem os scripts (main.js) ....
+=======
+>>>>>>> 2c514aece2192ac97b5d30f58d49106781fc8754
