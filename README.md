@@ -1,3 +1,6 @@
+# Caso queria configurar do zero-segue os comandos usados
+
+
 # Config-Babel-Webpack
 
 
