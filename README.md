@@ -78,7 +78,7 @@
         };
         ```
 
-- Configurando WebPack
+# - Configurando WebPack
     - [x]  Instale a dependência (yarn add webpack webpack-cli -D)
     - [x]  Instale a dependência (yarn add babel-loader -D)
     - [x]  Instale a dependência (yarn add webpack-dev-server -D) ⇒ cria o servidor
@@ -125,7 +125,6 @@
         "build": "webpack --mode=production"
         }
         ```
-<<<<<<< HEAD
 
 # - Estruturando e Organizando as pastas do projeto
     - [ ]  Crie duas pastar: public e src
@@ -133,5 +132,3 @@
         index.html
     - src
         aqui vem os scripts (main.js) ....
-=======
->>>>>>> 2c514aece2192ac97b5d30f58d49106781fc8754
